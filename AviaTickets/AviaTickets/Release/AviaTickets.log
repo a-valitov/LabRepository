@@ -1,0 +1,17 @@
+﻿Построение начато 03.12.2015 17:10:47.
+     1>Проект "C:\Users\3ware\documents\visual studio 2012\Projects\AviaTickets\AviaTickets\AviaTickets.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\AviaTickets.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Xml.dll" /analyze- /errorReport:prompt AviaTickets.cpp
+         AviaTickets.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\3ware\documents\visual studio 2012\Projects\AviaTickets\Release\AviaTickets.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\AviaTickets.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\3ware\documents\visual studio 2012\Projects\AviaTickets\Release\AviaTickets.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\app.res
+         Release\AssemblyInfo.obj
+         Release\AviaTickets.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.6.AssemblyAttributes.obj"
+         AviaTickets.vcxproj -> C:\Users\3ware\documents\visual studio 2012\Projects\AviaTickets\Release\AviaTickets.exe
+     1>Построение проекта "C:\Users\3ware\documents\visual studio 2012\Projects\AviaTickets\AviaTickets\AviaTickets.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.46
